@@ -37,4 +37,3 @@ jobs:
                   tags: registry.digitalocean.com/iteroni-invidious/youtube-data-extractor:latest
                   cache-from: type=gha
                   cache-to: type=gha,mode=max
- 
